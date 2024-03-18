@@ -8,7 +8,7 @@ export default function ReturnKing() {
   );
   return (
     <>
-      <Link href="/volumes">All Volumes</Link>
+      <Link href="/volumes">All volumes</Link>
       <h1>{book.title}</h1>
       <p>{book.description}</p>
       <h2>Books in the Volume</h2>
